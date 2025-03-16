@@ -1,12 +1,25 @@
-# Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5
+# YouSpot Frontend
 
-![YouTube](https://i.ibb.co/4R5RkmW/Thumbnail-5.png)
+Welcome to **YouSpot** – A decentralized Web3 streaming platform that ensures privacy, content monetization, and secure authentication using zk-SNARKs, NFTs, and wallet-based sign-in.
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+🚀 Features
 
-### Showcase your dev skills with practical experience and land the coding career of your dreams
-💻 JS Mastery Pro - https://jsmastery.pro/youtube
-✅ A special YOUTUBE discount code is automatically applied!
+Wallet-Based Authentication – Sign in using Ethereum wallets (EIP-4361: Sign-In with Ethereum) and ENS-based identities.
 
-📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - https://www.jsmastery.pro/links
+Decentralized Identity Management – User metadata stored securely on IPFS/Arweave.
+
+Content Monetization – NFT-based ownership and token-based rewards for creators.
+
+Secure Streaming Access – Subscription and pay-per-view models with blockchain-based access control.
+
+Privacy & Security – Leveraging zk-SNARKs for private transactions and secure interactions.
+
+📌 Tech Stack
+
+Frontend: React, Tailwind CSS
+
+Web3 Integration: Wagmi, ethers.js
+
+Storage: IPFS/Arweave
+
+Blockchain: Ethereum, zk-SNARKs
