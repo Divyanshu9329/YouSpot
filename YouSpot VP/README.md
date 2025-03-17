@@ -1,5 +1,7 @@
 # YouSpot Frontend
 
+**Deployed Frontend : https://Divyanshu9329.github.io/YouSpot**
+
 Welcome to **YouSpot** – A decentralized Web3 streaming platform that ensures privacy, content monetization, and secure authentication using zk-SNARKs, NFTs, and wallet-based sign-in.
 
 🚀 Features
