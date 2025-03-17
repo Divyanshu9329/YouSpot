@@ -5,6 +5,8 @@ Welcome to **YouSpot**, a revolutionary decentralized streaming platform leverag
 ## 🚀 Project Overview
 **YouSpot** is built to empower content creators and viewers with complete ownership, privacy, and fair monetization through Web3 technology. The platform integrates **decentralized identity management, NFT-based monetization, and zk-SNARKs for enhanced privacy.**
 
+🚧 **Project Status**: This project is currently under development. We have successfully created and deployed **smart contracts** and completed the **frontend**. Our team is actively working on the **backend and integration** to bring YouSpot to life.
+
 ---
 
 ## 🌟 Key Features
