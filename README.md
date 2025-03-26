@@ -1,9 +1,9 @@
 # YouSpot – A Decentralized Web3 Streaming Platform
 
-Welcome to **YouSpot**, a revolutionary decentralized streaming platform leveraging **Blockchain, zk-SNARKs, AI, and NFTs** to enable secure, private, and monetized content distribution.
+Welcome to **YouSpot**, a revolutionary decentralized streaming platform leveraging **Blockchain, zk-SNARKs, AI, NFTs, and XRPL** to enable secure, private, and monetized content distribution.
 
 ## 🚀 Project Overview
-**YouSpot** is built to empower content creators and viewers with complete ownership, privacy, and fair monetization through Web3 technology. The platform integrates **decentralized identity management, NFT-based monetization, and zk-SNARKs for enhanced privacy.**
+**YouSpot** is built to empower content creators and viewers with complete ownership, privacy, and fair monetization through Web3 technology. The platform integrates **decentralized identity management, NFT-based monetization, zk-SNARKs for enhanced privacy and XRP Ledger for royalty distribution.**
 
 🚧 **Project Status**: This project is currently under development. We have successfully created and deployed **smart contracts** and completed the **frontend**. Our team is actively working on the **backend and integration** to bring YouSpot to life.
 
@@ -21,6 +21,10 @@ Welcome to **YouSpot**, a revolutionary decentralized streaming platform leverag
 - **Content Monetization**
   - NFT-based ownership & revenue-sharing models
   - Token-based rewards for engagement
+   
+- **Royalty Distribution with XRPL**
+  - Secure and instant micropayments using XRPL.
+  - Automated distribution of royalties to creators upon content purchase.
 
 - **AI-Driven Content Discovery**
   - Personalized recommendations powered by on-chain AI models
@@ -32,7 +36,7 @@ Welcome to **YouSpot**, a revolutionary decentralized streaming platform leverag
 
 ## 🏗 Tech Stack
 - **Frontend:** React, Tailwind CSS
-- **Blockchain:** Ethereum, Solidity, zk-SNARKs
+- **Blockchain:** Ethereum, Solidity, zk-SNARKs, HardHat + XRPL
 - **Smart Contracts:** ERC-721, ERC-1155, EIP-4361
 - **Web3 Tools:** Wagmi, ethers.js, IPFS, Arweave
 - **Backend:** Node.js, Express.js
@@ -52,7 +56,7 @@ Welcome to **YouSpot**, a revolutionary decentralized streaming platform leverag
 ---
 
 ## 📩 Contact & Community
-For queries or collaborations, reach out via **divyanshupandey9329@gmail.com or divyagupta20042004@gmail.com** .
+For queries or collaborations, reach out via **divyanshupandey9329@gmail.com or divyagupta20042004@gmail.com or hitanshijain835@gmail.com** .
 
 🚀 **Join the Web3 revolution with YouSpot!** 🎬
 
