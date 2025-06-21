@@ -7,7 +7,6 @@ Welcome to **YouSpot**, a revolutionary decentralized streaming platform leverag
 
 🚧 **Project Status**: This project is currently under development. We have successfully created and deployed **smart contracts** and completed the **frontend**. Our team is actively working on the **backend and integration** to bring YouSpot to life....
 
----
 
 ## 🌟 Key Features
 - **Decentralized Identity & Authentication**
