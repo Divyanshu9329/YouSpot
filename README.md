@@ -41,7 +41,7 @@ Welcome to **YouSpot**, a revolutionary decentralized streaming platform leverag
 - **Backend:** Node.js, Express.js
 - **AI Integration:** On-chain ML models for recommendations
 
----
+
 
 ## 🤝 Contributing
 1. **Fork** the repository.
@@ -52,7 +52,7 @@ Welcome to **YouSpot**, a revolutionary decentralized streaming platform leverag
 
 
 
----
+
 
 ## 📩 Contact & Community
 For queries or collaborations, reach out via **divyanshupandey9329@gmail.com or divyagupta20042004@gmail.com or hitanshijain835@gmail.com** .
